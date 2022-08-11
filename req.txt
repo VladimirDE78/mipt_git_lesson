@@ -1,0 +1,12 @@
+antiorm==1.2.1
+db==0.1.1
+db-sqlite3==0.0.1
+distlib==0.3.5
+filelock==3.7.1
+numpy==1.23.1
+pandas==1.4.3
+platformdirs==2.5.2
+python-dateutil==2.8.2
+pytz==2022.1
+six==1.16.0
+virtualenv==20.15.1
